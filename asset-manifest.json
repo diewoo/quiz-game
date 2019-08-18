@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quiz-game/static/css/main.32c17b14.chunk.css",
+    "main.js": "/quiz-game/static/js/main.09a74f58.chunk.js",
+    "main.js.map": "/quiz-game/static/js/main.09a74f58.chunk.js.map",
+    "runtime~main.js": "/quiz-game/static/js/runtime~main.ed733c55.js",
+    "runtime~main.js.map": "/quiz-game/static/js/runtime~main.ed733c55.js.map",
+    "static/js/2.3c5918aa.chunk.js": "/quiz-game/static/js/2.3c5918aa.chunk.js",
+    "static/js/2.3c5918aa.chunk.js.map": "/quiz-game/static/js/2.3c5918aa.chunk.js.map",
+    "index.html": "/quiz-game/index.html",
+    "precache-manifest.f081bccd88535db1809d632217682d03.js": "/quiz-game/precache-manifest.f081bccd88535db1809d632217682d03.js",
+    "service-worker.js": "/quiz-game/service-worker.js",
+    "static/css/main.32c17b14.chunk.css.map": "/quiz-game/static/css/main.32c17b14.chunk.css.map"
+  }
+}
